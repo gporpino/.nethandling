@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/PorpinoHandling/!svn/ver/8/trunk/Code/PorpinoHandling/ExtensionsMethod
+END
+ListExtensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/PorpinoHandling/!svn/ver/4/trunk/Code/PorpinoHandling/ExtensionsMethod/ListExtensions.cs
+END
+UIExtensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/PorpinoHandling/!svn/ver/4/trunk/Code/PorpinoHandling/ExtensionsMethod/UIExtensions.cs
+END
+EnumExtensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/PorpinoHandling/!svn/ver/4/trunk/Code/PorpinoHandling/ExtensionsMethod/EnumExtensions.cs
+END
+ObjectExtensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/PorpinoHandling/!svn/ver/4/trunk/Code/PorpinoHandling/ExtensionsMethod/ObjectExtensions.cs
+END
+StringExtensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/PorpinoHandling/!svn/ver/4/trunk/Code/PorpinoHandling/ExtensionsMethod/StringExtensions.cs
+END
+SerializeExtensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PorpinoHandling/!svn/ver/4/trunk/Code/PorpinoHandling/ExtensionsMethod/SerializeExtensions.cs
+END
+WindowsExtensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PorpinoHandling/!svn/ver/4/trunk/Code/PorpinoHandling/ExtensionsMethod/WindowsExtensions.cs
+END

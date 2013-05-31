@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/PorpinoHandling/!svn/ver/8/trunk/Code/PorpinoHandling/Manager
+END
+ISettingsImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/PorpinoHandling/!svn/ver/4/trunk/Code/PorpinoHandling/Manager/ISettingsImpl.cs
+END
+SettingsManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/PorpinoHandling/!svn/ver/4/trunk/Code/PorpinoHandling/Manager/SettingsManager.cs
+END
+ILogImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/PorpinoHandling/!svn/ver/6/trunk/Code/PorpinoHandling/Manager/ILogImpl.cs
+END
+LogManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/PorpinoHandling/!svn/ver/4/trunk/Code/PorpinoHandling/Manager/LogManager.cs
+END
+Command.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/PorpinoHandling/!svn/ver/4/trunk/Code/PorpinoHandling/Manager/Command.cs
+END
+UserLevel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/PorpinoHandling/!svn/ver/2/trunk/Code/PorpinoHandling/Manager/UserLevel.cs
+END
+CommandManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/PorpinoHandling/!svn/ver/4/trunk/Code/PorpinoHandling/Manager/CommandManager.cs
+END
+ILog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/PorpinoHandling/!svn/ver/4/trunk/Code/PorpinoHandling/Manager/ILog.cs
+END
+ILoggerImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/PorpinoHandling/!svn/ver/4/trunk/Code/PorpinoHandling/Manager/ILoggerImpl.cs
+END
